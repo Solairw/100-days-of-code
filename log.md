@@ -2,32 +2,10 @@
 
 ### Day 0: November 19, 2019
 
-**Plan: study Github tutorial
+**Plan: study Github tutorial, do code
 
-**Today's Progress**: 
+**Today's Progress**: Passed GitHub tutorial (again!). Uploaded my project (sudoku_solver). I will be developing it further. Today, I added function to check if the solution submitted by user is correct or not.
 
-**Thoughts:** 
+**Thoughts:** Progress is not much, but this is just the beginning.
 
-[comment] <> I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Sudoku_solver](https://github.com/Solairw/sudoku_solver)
