@@ -28,11 +28,23 @@
   3. Return to 1.
   4. Voila - a solved sudoku!
 However, there are harder sudokus where there are multiple possible solutions on each cell (at least at the beginning). Thus, my task is to implement the following algorithm:
-  1. Find possible solution for every cell.
-  2. *Do something.
-  3. Voila - a solved sudoku!
+      1. Find possible solution for every cell.
+      2. *Do something*.
+      3. Voila - a solved sudoku!
 I have not yet discovered how to do Step 2 yet. I don't want to get a solution from Internet and want to try complete this challenge for myself. Tried to do some code, pushed it to `better_solver` branch on GitHub.
 
 2. Completed Sudoku Solution Validator on Codewars https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
-3. Done Bites of Py Exercise 102.
+3. Done Bites of Py Exercise 103.
+
+### Day 3: November 21, 2019
+
+**Plan**: further sudoku solver development
+
+**Today's Progress:
+
+1. The previous idea to improve algorithm kinda failed - at certain point the sudoku is filled in that way that the further solution is impossible. Trying to fix that by implying additional logic, for example turning problematic rows to their original condition.
+
+2. Learned about `pdb.set_trace`. Useful for debugging porpuses!
+
+3. Solved Bites of Py Exercises 104 and 105.
