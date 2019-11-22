@@ -48,3 +48,13 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 2. Learned about `pdb.set_trace`. Useful for debugging porpuses!
 
 3. Solved Bites of Py Exercises 104 and 105.
+
+### Day 4: November 22, 2019
+
+**Today's Progress:
+
+1. Solved Bites of Py Exercises 106 - 108
+
+2. Learned a bit more about re module.
+
+3. Learned about named tuples.
