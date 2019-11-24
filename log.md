@@ -58,3 +58,11 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 2. Learned a bit more about re module.
 
 3. Learned about named tuples.
+
+### Day 5: November 24, 2019
+
+**Today's Progress:
+
+1. Solved Excercise 10 in Lerner's A3 course. Started creating config file.
+
+2. Solved Bites of Py Excercises 109 and 110, thus finishing Intro section.
