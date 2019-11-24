@@ -66,3 +66,15 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 1. Solved Excercise 10 in Lerner's A3 course. Started creating config file.
 
 2. Solved Bites of Py Excercises 109 and 110, thus finishing Intro section.
+
+3. Solved Excercise 3 in Lerner's B3 course. Created a translator function replacing individual characters in string by another characters. Discovered `rpartition` function (https://stackoverflow.com/a/3675423/11321634):
+
+```
+def replace_last(source_string, replace_what, replace_with):
+    head, _sep, tail = source_string.rpartition(replace_what)
+    return head + replace_with + tail
+
+s = "123123"
+r = replace_last(s, '2', 'x')
+print r
+```
