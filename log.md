@@ -78,3 +78,9 @@ s = "123123"
 r = replace_last(s, '2', 'x')
 print r
 ```
+
+### Day 6: November 26, 2019
+
+**Today's Progress:
+
+Solved Bites of Py 238 and 8. Today I learned about `unittest` while writing tests for Fibonacci number generator.
