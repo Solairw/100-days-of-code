@@ -83,4 +83,4 @@ print r
 
 **Today's Progress:
 
-Solved Bites of Py 238 and 8. Today I learned about `unittest` while writing tests for Fibonacci number generator.
+Solved Bites of Py 238 and 8. Today I learned about `unittest` while writing tests for Fibonacci number generator. Also learned about **Mutation testing** https://pypi.org/project/MutPy/.
