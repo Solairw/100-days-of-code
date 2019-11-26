@@ -41,7 +41,7 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 **Plan**: further sudoku solver development
 
-**Today's Progress:
+**Today's Progress:**
 
 1. The previous idea to improve algorithm kinda failed - at certain point the sudoku is filled in that way that the further solution is impossible. Trying to fix that by implying additional logic, for example turning problematic rows to their original condition.
 
@@ -51,7 +51,7 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 ### Day 4: November 22, 2019
 
-**Today's Progress:
+**Today's Progress:**
 
 1. Solved Bites of Py Exercises 106 - 108
 
@@ -61,7 +61,7 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 ### Day 5: November 24, 2019
 
-**Today's Progress:
+**Today's Progress:**
 
 1. Solved Excercise 10 in Lerner's A3 course. Started creating config file.
 
@@ -81,6 +81,12 @@ print r
 
 ### Day 6: November 26, 2019
 
-**Today's Progress:
+**Today's Progress:**
 
 Solved Bites of Py 238 and 8. Today I learned about `unittest` while writing tests for Fibonacci number generator. Also learned about **Mutation testing** https://pypi.org/project/MutPy/.
+
+### Day 7: November 27, 2019
+
+**Today's Progress:**
+
+Solved Bites of Py 15. Started PyBite 16.
