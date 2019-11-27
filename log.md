@@ -79,14 +79,20 @@ r = replace_last(s, '2', 'x')
 print r
 ```
 
-### Day 6: November 26, 2019
+### Day 6: November 25, 2019
 
 **Today's Progress:**
 
 Solved Bites of Py 238 and 8. Today I learned about `unittest` while writing tests for Fibonacci number generator. Also learned about **Mutation testing** https://pypi.org/project/MutPy/.
 
-### Day 7: November 27, 2019
+### Day 7: November 26, 2019
 
 **Today's Progress:**
 
 Solved Bites of Py 15. Started PyBite 16.
+
+### Day 8: November 27, 2019
+
+**Today's Progress:
+
+Solved Bites of Py 16.
