@@ -95,4 +95,4 @@ Solved Bites of Py 15. Started PyBite 16.
 
 **Today's Progress:
 
-Solved Bites of Py 16.
+Solved Bites of Py 16, 19.
