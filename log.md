@@ -93,13 +93,13 @@ Solved Bites of Py 15. Started PyBite 16.
 
 ### Day 8: November 27, 2019
 
-**Today's Progress:
+**Today's Progress:**
 
 Solved Bites of Py 16, 19.
 
 ### Day 9: November 28, 2019
 
-**Todat's Progress:
+**Today's Progress:**
 
 Solved Bites of Py 26 and 29. Learned about dict comprehensions:
 ```
