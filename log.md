@@ -101,9 +101,14 @@ Solved Bites of Py 16, 19.
 
 **Today's Progress:**
 
-Solved Bites of Py 26 and 29. Learned about dict comprehensions:
+Solved Bites of Py 21 and 26. Learned about dict comprehensions:
 ```
 def filter_bites(bites=bites, bites_done=exclude_bites):
     """return the bites dict with the exclude_bites filtered out"""
     return {key:value for (key, value) in bites.items() if key not in exclude_bites}
 ```
+### Day 10: November 30, 2019
+
+**Today's Progress:**
+
+Solved Bites of Py 29.
