@@ -111,4 +111,4 @@ def filter_bites(bites=bites, bites_done=exclude_bites):
 
 **Today's Progress:**
 
-Solved Bites of Py 29.
+Solved Bites of Py 29, 32, 37. Made first recursion function.
