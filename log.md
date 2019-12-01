@@ -112,3 +112,11 @@ def filter_bites(bites=bites, bites_done=exclude_bites):
 **Today's Progress:**
 
 Solved Bites of Py 29, 32, 37. Made first recursion function.
+
+### Day 11: December 1, 2019
+
+**Today's Progress:**
+
+1. Solved Excercise 11 in Lerner's A3 course. Created Config class with backup functionality. Learned about `time()` function from `time` module- used for creating timestamps.
+
+2. Started Excercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File manipulation in Python is still tricky for me.
