@@ -35,7 +35,8 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 2. Completed Sudoku Solution Validator on Codewars https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
-3. Done Bites of Py Exercise 103.
+3. Done Bites of Py 
+103.
 
 ### Day 3: November 21, 2019
 
@@ -63,11 +64,11 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 **Today's Progress:**
 
-1. Solved Excercise 10 in Lerner's A3 course. Started creating config file.
+1. Solved Exercise 10 in Lerner's A3 course. Started creating config file.
 
 2. Solved Bites of Py Excercises 109 and 110, thus finishing Intro section.
 
-3. Solved Excercise 3 in Lerner's B3 course. Created a translator function replacing individual characters in string by another characters. Discovered `rpartition` function (https://stackoverflow.com/a/3675423/11321634):
+3. Solved Exercise 3 in Lerner's B3 course. Created a translator function replacing individual characters in string by another characters. Discovered `rpartition` function (https://stackoverflow.com/a/3675423/11321634):
 
 ```
 def replace_last(source_string, replace_what, replace_with):
@@ -117,6 +118,6 @@ Solved Bites of Py 29, 32, 37. Made first recursion function.
 
 **Today's Progress:**
 
-1. Solved Excercise 11 in Lerner's A3 course. Created Config class with backup functionality. Learned about `time()` function from `time` module- used for creating timestamps.
+1. Solved Exercise 11 in Lerner's A3 course. Created Config class with backup functionality. Learned about `time()` function from `time` module- used for creating timestamps.
 
-2. Started Excercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File manipulation in Python is still tricky for me.
+2. Started Exercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File manipulation in Python is still tricky for me.
