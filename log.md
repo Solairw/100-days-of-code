@@ -121,3 +121,9 @@ Solved Bites of Py 29, 32, 37. Made first recursion function.
 1. Solved Exercise 11 in Lerner's A3 course. Created Config class with backup functionality. Learned about `time()` function from `time` module- used for creating timestamps.
 
 2. Started Exercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File manipulation in Python is still tricky for me.
+
+### Day 12: December 2, 2019
+
+**Today's Progress:**
+
+Solved Exercise 4 in Lerner's B3 course. It was tricky and tough. I got extra trouble since test file had a little mistake. However, I learned about `tarfile` and `zipfile` modules.
