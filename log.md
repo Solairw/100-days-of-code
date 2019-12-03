@@ -132,7 +132,7 @@ Solved Exercise 4 in Lerner's B3 course. It was tricky and tough. I got extra tr
 
 **Today's Progress:**
 
-Solved Py of Bites 43 and 44.
+Solved Bites of Py 43 and 44.
 Learned about forcing keyword arguments for functions:
 ```
 def get_profile(*, name='julian', profession='programmer'):
