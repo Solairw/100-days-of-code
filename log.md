@@ -127,3 +127,20 @@ Solved Bites of Py 29, 32, 37. Made first recursion function.
 **Today's Progress:**
 
 Solved Exercise 4 in Lerner's B3 course. It was tricky and tough. I got extra trouble since test file had a little mistake. However, I learned about `tarfile` and `zipfile` modules.
+
+### Day 13: December 3, 2019
+
+**Today's Progress:**
+
+Solved Py of Bites 43 and 44.
+Learned about forcing keyword arguments for functions:
+```
+def get_profile(*, name='julian', profession='programmer'):
+    return f'{name} is a {profession}'
+```
+Learned about choices function in random module and string module:
+```
+def gen_key(parts=4, chars_per_part=8):
+    return '-'.join([''.join(random.choices(string.ascii_uppercase + string.digits, k=chars_per_part))
+                     for counter in range(parts)])
+```
