@@ -22,7 +22,7 @@
 
 **Today's Progress**:
 
-1. Learned what are backtracking algorithms are. Such algorithm would solve any sudoku (if it doesn't have a mistake of course!). I will definetely try to implement one in future. Right now I try to stay with my current flow:
+1. Learned what backtracking algorithms are. Such algorithm would solve any sudoku (if it doesn't have a mistake of course!). I will definetely try to implement one in future. Right now I try to stay with my current flow:
   1. Find possible solution for every cell.
   2. Find which cells have only one possible solution and fill them.
   3. Return to 1.
@@ -35,8 +35,7 @@ I have not yet discovered how to do Step 2 yet. I don't want to get a solution f
 
 2. Completed Sudoku Solution Validator on Codewars https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
-3. Done Bites of Py 
-103.
+3. Done Bites of Py 103.
 
 ### Day 3: November 21, 2019
 
