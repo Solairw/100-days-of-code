@@ -143,3 +143,8 @@ def gen_key(parts=4, chars_per_part=8):
     return '-'.join([''.join(random.choices(string.ascii_uppercase + string.digits, k=chars_per_part))
                      for counter in range(parts)])
 ```
+### Day 14: December 5, 2019
+
+**Today's Progress:**
+
+Solved Bites of Py 45 and 46.
