@@ -148,3 +148,8 @@ def gen_key(parts=4, chars_per_part=8):
 **Today's Progress:**
 
 Solved Bites of Py 45 and 46.
+
+### Day 15: December 7, 2019
+
+**Today's Progress:**
+Solved Exercise 12 in Lerner's A3 course. Learned about `__eq__`, `__gt__` and `__lt__` methods.
