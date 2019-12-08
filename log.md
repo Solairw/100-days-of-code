@@ -119,7 +119,7 @@ Solved Bites of Py 29, 32, 37. Made first recursion function.
 
 1. Solved Exercise 11 in Lerner's A3 course. Created Config class with backup functionality. Learned about `time()` function from `time` module- used for creating timestamps.
 
-2. Started Exercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File manipulation in Python is still tricky for me.
+2. Started Exercise 4 in Lerner's B3 course. The task is to create zip file out of tar archive contents. File mteranipulation in Python is still tricky for me.
 
 ### Day 12: December 2, 2019
 
@@ -153,3 +153,13 @@ Solved Bites of Py 45 and 46.
 
 **Today's Progress:**
 Solved Exercise 12 in Lerner's A3 course. Learned about `__eq__`, `__gt__` and `__lt__` methods.
+
+### Day 16: Decembber 8, 2019
+
+**Today's Progress:**
+1. Solved Exercise 5 in Lerner's B3 course. Made ImmutableMe class, which prevents user from mofiying attributes after object's instance creation and from adding new attributes.
+
+2. Found an interesting project on Reddit. Started to explore the source code.
+https://www.reddit.com/r/Python/comments/e735bt/this_is_an_open_invitation_to_anyone_who_wants_to/
+Github link https://github.com/Jeremiah9000/Poker-with-Python
+Youtube playlist with code explanation https://www.youtube.com/playlist?list=PLfGVDCs6poiOvs2UwPQ8vIZD4ilQElhAZ
