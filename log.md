@@ -163,3 +163,8 @@ Solved Exercise 12 in Lerner's A3 course. Learned about `__eq__`, `__gt__` and `
 https://www.reddit.com/r/Python/comments/e735bt/this_is_an_open_invitation_to_anyone_who_wants_to/
 Github link https://github.com/Jeremiah9000/Poker-with-Python
 Youtube playlist with code explanation https://www.youtube.com/playlist?list=PLfGVDCs6poiOvs2UwPQ8vIZD4ilQElhAZ
+
+### Day 17: December 9, 2019
+
+**Today's Progress:**
+Solved Bites of Py 54 and 55. Learned about `namedtuple` and `feedparser` module.
