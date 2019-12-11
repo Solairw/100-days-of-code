@@ -168,3 +168,9 @@ Youtube playlist with code explanation https://www.youtube.com/playlist?list=PLf
 
 **Today's Progress:**
 Solved Bites of Py 54 and 55. Learned about `namedtuple` and `feedparser` module.
+
+
+### Day 18: December 11, 2019
+
+**Today's Progress:**
+Solved Bites of Py 64 and 80.
