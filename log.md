@@ -174,3 +174,8 @@ Solved Bites of Py 54 and 55. Learned about `namedtuple` and `feedparser` module
 
 **Today's Progress:**
 Solved Bites of Py 64 and 80.
+
+### Day 19: December 13, 2019
+
+**Today's Progress:**
+Solved Bites of Py 66 and 74.
