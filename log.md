@@ -183,4 +183,4 @@ Solved Bites of Py 66 and 74.
 ### Day 20: December 15, 2019
 
 **Today's Progress:**
-Solved Bite of Py 115.
+Solved Bites of Py 115 and 77.
