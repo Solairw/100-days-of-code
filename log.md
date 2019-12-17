@@ -184,3 +184,9 @@ Solved Bites of Py 66 and 74.
 
 **Today's Progress:**
 Solved Bites of Py 115 and 77.
+
+### Day 21: December 17, 2019
+
+**Today's Progress:**
+
+Solved Exercise 13 in Lerner's A3 course. Created `__format__` method for Config class.
