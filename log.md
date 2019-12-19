@@ -190,3 +190,7 @@ Solved Bites of Py 115 and 77.
 **Today's Progress:**
 
 Solved Exercise 13 in Lerner's A3 course. Created `__format__` method for Config class.
+
+### Day 22: December 19, 2019
+
+Solved Exercise 6 in Lerner's B3 course. Learned about `socket` module and created my first TCP server and client.
