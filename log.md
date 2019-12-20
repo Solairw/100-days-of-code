@@ -194,3 +194,7 @@ Solved Exercise 13 in Lerner's A3 course. Created `__format__` method for Config
 ### Day 22: December 19, 2019
 
 Solved Exercise 6 in Lerner's B3 course. Learned about `socket` module and created my first TCP server and client.
+
+### Day 23: December 20, 2019
+
+Solved parse_ranges Exercise in Python Morsels.
