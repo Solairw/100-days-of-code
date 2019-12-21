@@ -201,4 +201,4 @@ Solved parse_ranges Exercise in Python Morsels.
 
 ### Day 24: December 20, 2019
 
-Solved Exercise 13 in Lerner's A3 course. Made `__enter__` and `__exit__` functions, thus making my first Context Manager!
+Solved Exercise 14 in Lerner's A3 course. Made `__enter__` and `__exit__` functions, thus making my first Context Manager!
