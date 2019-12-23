@@ -199,6 +199,6 @@ Solved Exercise 6 in Lerner's B3 course. Learned about `socket` module and creat
 
 Solved parse_ranges Exercise in Python Morsels.
 
-### Day 24: December 20, 2019
+### Day 24: December 21, 2019
 
 Solved Exercise 14 in Lerner's A3 course. Made `__enter__` and `__exit__` functions, thus making my first Context Manager!
