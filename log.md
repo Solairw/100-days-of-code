@@ -206,3 +206,7 @@ Solved Exercise 14 in Lerner's A3 course. Made `__enter__` and `__exit__` functi
 ### Day 25: December 23, 2019
 
 Solved Bite of Py 143.
+
+### Day 26: December 26, 2019
+
+Solved Exercise 7 in Lerner's B3 course.
