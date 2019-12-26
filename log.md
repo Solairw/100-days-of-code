@@ -213,6 +213,6 @@ Solved Exercise 7 in Lerner's B3 course.
 
 ### Day 27: December 26, 2019
 
-1. Solved Ecercise 15 in Lerner's A3 course. Learned about `arrow` module and `attrgetter` method from `operator` module.
+1. Solved Exercise 15 in Lerner's A3 course. Learned about `arrow` module and `attrgetter` method from `operator` module.
 
 2. Solved Bite of Py 83. Learned about `pytz` module.
