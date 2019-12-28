@@ -216,3 +216,7 @@ Solved Exercise 7 in Lerner's B3 course.
 1. Solved Exercise 15 in Lerner's A3 course. Learned about `arrow` module and `attrgetter` method from `operator` module.
 
 2. Solved Bite of Py 83. Learned about `pytz` module.
+
+### Day 28: December 28, 2019
+
+Solved Exercise 8 in Lerner's B3 course. Learned about `exec` function.
