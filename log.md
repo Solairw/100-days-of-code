@@ -224,3 +224,7 @@ Solved Exercise 8 in Lerner's B3 course. Learned about `exec` function.
 ### Day 29: December 29, 2019
 
 Worked on personal projects.
+
+### Day 30: December 30, 2019
+
+Worked in personal projects.
