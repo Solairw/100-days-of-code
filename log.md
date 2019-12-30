@@ -227,4 +227,4 @@ Worked on personal projects.
 
 ### Day 30: December 30, 2019
 
-Worked in personal projects.
+Worked on personal projects.
