@@ -228,3 +228,7 @@ Worked on personal projects.
 ### Day 30: December 30, 2019
 
 Worked on personal projects.
+
+### Day 31: January 1, 2020
+
+Solved Bite of Py 167.
