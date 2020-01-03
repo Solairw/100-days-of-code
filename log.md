@@ -232,3 +232,8 @@ Worked on personal projects.
 ### Day 31: January 1, 2020
 
 Solved Bite of Py 167.
+
+
+### Day 32: January 3, 2020
+
+Solved Bite of Py 218.
