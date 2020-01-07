@@ -241,3 +241,7 @@ Solved Bite of Py 218.
 ### Day 33: january 5, 2020
 
 Solved Bites of Py 172 and 176.
+
+### Day 34: january 7, 2020
+
+Solved Bites of Py 169.
