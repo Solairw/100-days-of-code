@@ -237,14 +237,14 @@ Solved Bite of Py 167.
 
 Solved Bite of Py 218.
 
-### Day 33: january 5, 2020
+### Day 33: January 5, 2020
 
 Solved Bites of Py 172 and 176.
 
-### Day 34: january 7, 2020
+### Day 34: January 7, 2020
 
 Solved Bites of Py 169.
 
-### Day 35: january 9, 2020
+### Day 35: January 9, 2020
 
 Solved Exercise 9 in Lerner's B3 course. Leaned about tinytag module.
