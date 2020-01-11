@@ -248,3 +248,7 @@ Solved Bites of Py 169.
 ### Day 35: January 9, 2020
 
 Solved Exercise 9 in Lerner's B3 course. Leaned about tinytag module.
+
+### Day 36: January 11, 2020
+
+Solved Bites of Py 91 and 180.
