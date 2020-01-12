@@ -255,4 +255,4 @@ Solved Bites of Py 91 and 180.
 
 ### Day 37: January 12, 2020
 
-Solved Exercise 10 of Lerner's B3 course. Improved my knoledge of decorators.
+Solved Exercise 10 of Lerner's B3 course. Improved my knowledge of decorators.
