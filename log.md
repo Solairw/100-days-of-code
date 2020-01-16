@@ -260,3 +260,7 @@ Solved Exercise 10 of Lerner's B3 course. Improved my knowledge of decorators.
 ### Day 38: January 14, 2020
 
 Solved Bites of Py 189 and 208. Learned about `any` function. Also learned that `0.33 - 1 = -0.6699999999999999`
+
+### Day 39: January 16, 2020
+
+Worked on personal projects.
