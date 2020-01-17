@@ -264,3 +264,7 @@ Solved Bites of Py 189 and 208. Learned about `any` function. Also learned that 
 ### Day 39: January 16, 2020
 
 Worked on personal projects.
+
+### Day 40: January 17, 2020
+
+Solved Exercise 11 of Lerner's B3 course.
