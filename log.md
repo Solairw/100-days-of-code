@@ -268,3 +268,7 @@ Worked on personal projects.
 ### Day 40: January 17, 2020
 
 Solved Exercise 11 of Lerner's B3 course.
+
+### Day 41: Danuary 19, 2020
+
+Solved meetup_date Exercise from Python Morsels.
