@@ -269,6 +269,10 @@ Worked on personal projects.
 
 Solved Exercise 11 of Lerner's B3 course.
 
-### Day 41: Danuary 19, 2020
+### Day 41: January 19, 2020
 
 Solved meetup_date Exercise from Python Morsels.
+
+### Day 42: January 21, 2020
+
+Solved Bites of Py 68 and 117.
