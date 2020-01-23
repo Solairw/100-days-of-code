@@ -276,3 +276,7 @@ Solved meetup_date Exercise from Python Morsels.
 ### Day 42: January 21, 2020
 
 Solved Bites of Py 68 and 117.
+
+### Day 43: January 23, 2020
+
+Solved Bite of Py 188. Learned about `statistics` module.
