@@ -280,3 +280,7 @@ Solved Bites of Py 68 and 117.
 ### Day 43: January 23, 2020
 
 Solved Bite of Py 188. Learned about `statistics` module.
+
+### Day 44: January 25, 2020
+
+Started working on Lerner's Exercise 12 in B3 course.
