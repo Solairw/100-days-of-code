@@ -292,3 +292,7 @@ Completed Exercise 13 from Lerner's B3 course.
 ### Day 46: January 27, 2020
 
 Worked on personal projects.
+
+### Day 47: Janary 28, 2020
+
+Worked on personal projects.
