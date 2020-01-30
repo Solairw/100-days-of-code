@@ -300,3 +300,7 @@ Worked on personal projects.
 ### Day 48: January 29, 2020
 
 Worked on personal projects.
+
+### Day 49: January 30, 2020
+
+Worked on personal projects. Sudoku solver almost works!
