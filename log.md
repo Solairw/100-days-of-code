@@ -308,3 +308,7 @@ Worked on personal projects. Sudoku solver almost works!
 ### Day 50: January 31, 2020
 
 Worked on personal projects.
+
+### Day 51: February 1, 2020
+
+Started working on Lerner's Exercise 13 in B3 course.
