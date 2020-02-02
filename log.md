@@ -312,3 +312,7 @@ Worked on personal projects.
 ### Day 51: February 1, 2020
 
 Started working on Lerner's Exercise 13 in B3 course.
+
+### Day 52: February 2, 2020
+
+Worked on python exercises. Learned about `cmd` module.
