@@ -320,3 +320,7 @@ Worked on python exercises. Learned about `cmd` module.
 ### Day 53: February 3, 2020
 
 Finished Lerner's Exercise 13 of B3 course.
+
+### Day 54: February 4, 2020
+
+Worked on personal projects.
