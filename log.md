@@ -324,3 +324,7 @@ Finished Lerner's Exercise 13 of B3 course.
 ### Day 54: February 4, 2020
 
 Worked on personal projects.
+
+### Day 55: February 5, 2020
+
+Worked on personal projects.
