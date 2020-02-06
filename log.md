@@ -328,3 +328,7 @@ Worked on personal projects.
 ### Day 55: February 5, 2020
 
 Worked on personal projects.
+
+### Day 56: January 6, 2020
+
+Completed algorithm for solving sudoku. Still need to improve performance to pass time requirements on codewars.
