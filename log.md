@@ -329,6 +329,10 @@ Worked on personal projects.
 
 Worked on personal projects.
 
-### Day 56: January 6, 2020
+### Day 56: February 6, 2020
 
 Completed algorithm for solving sudoku. Still need to improve performance to pass time requirements on codewars.
+
+### Day 57: February 8, 2020
+
+Completed exercise "is_perfect_square" on Python Morserls. Learned about `decimal` and `cmath` modules.
