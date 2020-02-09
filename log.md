@@ -336,3 +336,7 @@ Completed algorithm for solving sudoku. Still need to improve performance to pas
 ### Day 57: February 8, 2020
 
 Completed exercise "is_perfect_square" on Python Morserls. Learned about `decimal` and `cmath` modules.
+
+### Day 58: February 9, 2020
+
+Started working on Lerner's Exercise 14 in B3 course.
