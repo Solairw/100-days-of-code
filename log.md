@@ -340,3 +340,7 @@ Completed exercise "is_perfect_square" on Python Morserls. Learned about `decima
 ### Day 58: February 9, 2020
 
 Started working on Lerner's Exercise 14 from B3 course.
+
+### Day 59: February 11, 2020
+
+Worked on personal projects.
