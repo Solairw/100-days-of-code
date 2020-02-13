@@ -344,3 +344,7 @@ Started working on Lerner's Exercise 14 from B3 course.
 ### Day 59: February 11, 2020
 
 Worked on personal projects.
+
+### Day 60: February 13, 2020
+
+Finished Lerner's Exercise 14 from B3 course. Learned about `threading` and `queue` modules.
