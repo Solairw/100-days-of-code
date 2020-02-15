@@ -348,3 +348,7 @@ Worked on personal projects.
 ### Day 60: February 13, 2020
 
 Finished Lerner's Exercise 14 from B3 course. Learned about `threading` and `queue` modules.
+
+### Day 61: February 15, 2020
+
+Completed Create Phone Number task on codewars.
