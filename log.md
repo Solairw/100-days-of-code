@@ -352,3 +352,7 @@ Finished Lerner's Exercise 14 from B3 course. Learned about `threading` and `que
 ### Day 61: February 15, 2020
 
 Completed Create Phone Number task on codewars.
+
+### Day 62: February 16, 2020
+
+Worked on personal projects.
