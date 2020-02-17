@@ -356,3 +356,7 @@ Completed Create Phone Number task on codewars.
 ### Day 62: February 16, 2020
 
 Worked on personal projects.
+
+### Day 63: February 17, 2020
+
+Worked in personal projects.
