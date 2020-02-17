@@ -359,4 +359,4 @@ Worked on personal projects.
 
 ### Day 63: February 17, 2020
 
-Worked in personal projects.
+Worked on personal projects.
