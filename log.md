@@ -364,3 +364,7 @@ Worked on personal projects.
 ### Day 64: February 19, 2020
 
 Worked on personal projects. Solved Eight queens puzzle.
+
+### Day 65: February 22, 2020
+
+Solved "The Poet And The Pendulum" on Codewars.
