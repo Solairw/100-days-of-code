@@ -368,3 +368,7 @@ Worked on personal projects. Solved Eight queens puzzle.
 ### Day 65: February 22, 2020
 
 Solved "The Poet And The Pendulum" on Codewars.
+
+### Day 66: February 24, 2020
+
+Solved "Watermelon" on Codewars.
