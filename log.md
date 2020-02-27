@@ -372,3 +372,7 @@ Solved "The Poet And The Pendulum" on Codewars.
 ### Day 66: February 24, 2020
 
 Solved "Watermelon" on Codewars.
+
+### Day 67: February 27, 2020
+
+Solved "Split Strings" on Codewars.
