@@ -380,3 +380,7 @@ Solved "Split Strings" on Codewars.
 ### Day 68: February 29, 2020
 
 Worked on personal projects.
+
+### Day 69: March 1, 2020
+
+Worked on personal projects.
