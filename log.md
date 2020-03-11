@@ -384,3 +384,7 @@ Worked on personal projects.
 ### Day 69: March 1, 2020
 
 Worked on personal projects.
+
+### Day 70: March 11, 2020
+
+Solved "Yes No Yes No" on Codewars.
