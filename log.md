@@ -388,3 +388,7 @@ Worked on personal projects.
 ### Day 70: March 11, 2020
 
 Solved "Yes No Yes No" on Codewars.
+
+### Day 71: March 12, 2020
+
+Solved "Super Coordinate Sums" on Codewars.
