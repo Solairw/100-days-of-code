@@ -392,3 +392,7 @@ Solved "Yes No Yes No" on Codewars.
 ### Day 71: March 12, 2020
 
 Solved "Super Coordinate Sums" on Codewars.
+
+### Day 72: March 16, 2020
+
+Started solving "Vigenère Cipher" on Codewars.
