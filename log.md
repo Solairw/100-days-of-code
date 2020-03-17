@@ -396,3 +396,7 @@ Solved "Super Coordinate Sums" on Codewars.
 ### Day 72: March 16, 2020
 
 Started solving "Vigenère Cipher" on Codewars.
+
+### Day 73: March 17, 2020
+
+Finished "Vigenère Cipher" and "Snail" on Codewars.
