@@ -400,3 +400,7 @@ Started solving "Vigenère Cipher" on Codewars.
 ### Day 73: March 17, 2020
 
 Finished "Vigenère Cipher" and "Snail" on Codewars.
+
+### Day 74: March 18, 2020
+
+Solved "Strip Comments" on Codewars.
